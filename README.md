@@ -132,8 +132,8 @@
                 <li><a href="#">Greeting card creation using Html and CSS</a></li>
                 <li><a href="#">Restaurant menu page using Html</a></li>
                 <li><a href="#">Newspaper layout using CSS</a></li>
-                <li><a href="#">Digital Portfolio using HTML</a></li> 
-                <!-- Add more project links here -->
+                <li><a href="#">Digital Portfolio using HTML
+                    <!-- Add more project links here -->
             </ul>
         </div>
     </section>
@@ -141,7 +141,7 @@
         <div class="section-content">
             <center>
            <h2>Resume</h2>
-         <a href="https://drive.google.com/file/d/1GDm2wb202Eu6UZjUdCqC0EXSrS8_0TQh/view?usp=drivesdk " target="_blank" class="download-button">Download CV</a>
+         <a href="https://drive.google.com/file/d/1GDm2wb202Eu6UZjUdCqC0EXSrS8_0TQh/view?usp=drivesdk " target="_blank"          class="download-button">Download CV</a>
         </center>
         </div>   
     </section>
