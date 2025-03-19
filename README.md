@@ -137,9 +137,7 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href= "https://drive.google.com/file/d/1FwcTpUkJdjbNVc84_D9h-vbJIybzvaX4/view?usp=drivesdk" target="_blank" 
-  class="download-button">Download CV </a>
-  </section>
+            <a href= "https://drive.google.com/file/d/1FwcTpUkJdjbNVc84_D9h-vbJIybzvaX4/view?usp=drivesdk" target="_blank class="download-button">Download CV </a>
     <footer>
         <p>&copy; 2025 Kiruthiga Sree.A</p>
     </footer>
