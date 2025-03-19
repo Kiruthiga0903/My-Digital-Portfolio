@@ -98,7 +98,7 @@
     <section id="about">
         <div class="section-content">
             <h2>About Me</h2>
-            <p>"A motivated college student with a keen interest in programming and technology. Skilled in C, C++, and Java, with a passion for learning and problem-solving. Eager to apply my knowledge in real-world applications and continuously improve my technical skills."</p>
+            <p> "A motivated college student with a keen interest in programming and technology. Skilled in C, C++, and Java, with a passion for learning and problem-solving. Eager to apply my knowledge in real-world applications and continuously improve my technical skills." </p>
         </div>
     </section>
     <section id="education">
@@ -137,10 +137,8 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href= "https://drive.google.com/file/d/1GDm2wb202Eu6UZjUdCqC0EXSrS8_0TQh/view?usp=drivesdk"                  
-          " target="_blank" class="download-button">Download CV</a>
-        </center>
-        </div>
+            <a> href= "https://drive.google.com/file/d/1GDm2wb202Eu6UZjUdCqC0EXSrS8_0TQh/view?usp=drivesdk"                  
+          " target="_blank" class="download-button">Download CV </a>
     </section>
     <footer>
         <p>&copy; 2025 Kiruthiga Sree.A</p>
