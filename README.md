@@ -138,7 +138,7 @@
             <center>
             <h2>Resume</h2>
             <a href="https://drive.google.com/file/d/1GDm2wb202Eu6UZjUdCqC0EXSrS8_0TQh/view?usp=drivesdk"                  
-   "My_Resume.png" target="_blank" class="download-button">Download CV</a>
+          " target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
     </section>
