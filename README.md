@@ -108,11 +108,9 @@
     <section id="education">
         <div class="section-content">
             <h2>Education</h2>
-            <li> B.Sc Computer Science </li>
-            <li> L.R.G Government Arts and Science College for Women-Tirupur.</li>
-            <li> Affiliated to Bharathiyar University</li>     
-        </div>
-    </section>
+            <li> B.Sc Computer Science.
+            <li> L.R.G Government Arts and Science College for Women-Tirupur.
+            <li> Affiliated to Bharathiyar University.   
     <section id="skills">
         <div class="section-content">
             <h2>Skills</h2>
