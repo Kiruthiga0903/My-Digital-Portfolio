@@ -132,11 +132,7 @@
                 <li><a href="#">Greeting card creation using Html and CSS</a></li>
                 <li><a href="#">Restaurant menu page using Html</a></li>
                 <li><a href="#">Newspaper layout using CSS</a></li>
-                <li><a href="#">Digital Portfolio using HTML
-                    <!-- Add more project links here -->
-            </ul>
-        </div>
-    </section>
+                <li><a href="#">Digital Portfolio using HTML</a></li>
     <section id="resume">
         <div class="section-content">
             <center>
