@@ -92,7 +92,7 @@
     </header>
     <nav>
         <ul>
-            <li><a href="#about">About</a></li>
+            <li><a href="#about">About</a><li>
             <li><a href="#education">Education</a></li>
             <li><a href="#skills">Skills</a></li>
             <li><a href="#projects">Projects</a></li>
@@ -108,9 +108,9 @@
     <section id="education">
         <div class="section-content">
             <h2>Education</h2>
-            <li> B.Sc Computer Science </li1>
-            <li> L.R.G Government Arts and Science College for Women-Tirupur.</li2>
-            <li> Affiliated to Bharathiyar University</li3>     
+            <li> B.Sc Computer Science </li>
+            <li> L.R.G Government Arts and Science College for Women-Tirupur.</li>
+            <li> Affiliated to Bharathiyar University</li>     
         </div>
     </section>
     <section id="skills">
